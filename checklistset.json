@@ -1,0 +1,52 @@
+[
+    {
+        "premise": "The room has four blue chairs.",
+        "hypothesis": "The room has chairs.",
+        "label": 0
+    },
+    {
+        "premise": "Two people are sitting outside.",
+        "hypothesis": "There are no people outside.",
+        "label": 1
+    },
+    {
+        "premise": "A cat is sleeping on the mat.",
+        "hypothesis": "The cat is awake.",
+        "label": 1
+    },
+    {
+        "premise": "Jane bought three apples and two oranges.",
+        "hypothesis": "Jane bought five pieces of fruit.",
+        "label": 0
+    },
+    {
+        "premise": "The sun is shining and birds are singing.",
+        "hypothesis": "It's a rainy day.",
+        "label": 1
+    },
+    {
+        "premise": "John is taller than Bill.",
+        "hypothesis": "Bill is taller than John.",
+        "label": 1
+    },
+    {
+        "premise": "All the cookies were eaten.",
+        "hypothesis": "Some cookies are left.",
+        "label": 1
+    },
+    {
+        "premise": "The car is either red or blue.",
+        "hypothesis": "The car is green.",
+        "label": 1
+    },
+    {
+        "premise": "The meeting was neither long nor boring.",
+        "hypothesis": "The meeting was short and interesting.",
+        "label": 0
+    },
+    {
+        "premise": "She never eats cheese.",
+        "hypothesis": "She sometimes eats cheese.",
+        "label": 1
+    }
+]

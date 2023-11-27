@@ -1,0 +1,52 @@
+[
+    {
+        "premise": "The children are playing in the park.",
+        "hypothesis": "The children are outdoors.",
+        "label": 0
+    },
+    {
+        "premise": "A woman is walking her dog in the evening.",
+        "hypothesis": "The dog is being walked.",
+        "label": 0
+    },
+    {
+        "premise": "A woman is walking her dog in the evening.",
+        "hypothesis": "The woman is riding a bike.",
+        "label": 2
+    },
+    {
+        "premise": "The office was completely empty.",
+        "hypothesis": "People were working in the office.",
+        "label": 2
+    },
+    {
+        "premise": "The office was completely empty.",
+        "hypothesis": "It was a weekend day.",
+        "label": 1
+    },
+    {
+        "premise": "The cake was baked for 30 minutes.",
+        "hypothesis": "The cake is undercooked.",
+        "label": 1
+    },
+    {
+        "premise": "The cake was baked for 30 minutes.",
+        "hypothesis": "The cake is ready to eat.",
+        "label": 0
+    },
+    {
+        "premise": "The scientists published their research in a journal.",
+        "hypothesis": "The research is about astronomy.",
+        "label": 1
+    },
+    {
+        "premise": "The scientists published their research in a journal.",
+        "hypothesis": "The research was kept secret.",
+        "label": 2
+    },
+    {
+        "premise": "The car is parked in the garage.",
+        "hypothesis": "The garage is empty.",
+        "label": 2
+    }
+]
